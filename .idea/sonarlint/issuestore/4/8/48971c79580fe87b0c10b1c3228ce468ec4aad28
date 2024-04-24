@@ -1,0 +1,27 @@
+
+J
+java:S3740H"/Provide the parametrized type for this generic.(çÉŒ„ûÿÿÿÿ
+J
+java:S3740U"/Provide the parametrized type for this generic.(½¥ÙŽûÿÿÿÿ
+J
+java:S3740b"/Provide the parametrized type for this generic.(Þ›­±ùÿÿÿÿ
+_
+java:S2583 "DChange this condition so that it does not always evaluate to "false"(îÉ¹Óüÿÿÿÿ
+_
+java:S21471"DCombine this catch with the one at line 47, which has the same body.(Óô÷”üÿÿÿÿ
+_
+java:S21473"DCombine this catch with the one at line 47, which has the same body.(ëÑ¡Üûÿÿÿÿ
+Z
+java:S21475"DCombine this catch with the one at line 47, which has the same body.(ãÊÑ±
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+G
+java:S1172F"1Remove this unused method parameter "playerType".(€ ¸…
+L
+java:S1172S"1Remove this unused method parameter "playerType".(çµèÜýÿÿÿÿ
+L
+java:S1172`"1Remove this unused method parameter "playerType".(Ú×ëãøÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
